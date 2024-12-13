@@ -2,6 +2,6 @@ sanic==20.12.7
 setuptools
 python-dotenv==1.0.1
 pydantic==2.10.3
-langchain-core
+langchain
 langchain-openai
 langchain-anthropic
