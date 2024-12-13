@@ -1,0 +1,2 @@
+sanic==20.12.7
+setuptools
